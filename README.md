@@ -7,7 +7,7 @@ The purpose of this analysis was to find the overall passing percentages of the 
 
 ## * How is the district summary affected?
      Since I have "dirty data", I am not sure. 
-     ![Image Title](https://github.com/DawnWalker12/School_District_Analysis/blob/main/District_Summary_DF.png).  
+     ![Image Title] (https://github.com/DawnWalker12/School_District_Analysis/blob/main/District_Summary_DF.png).  
           
 
 ## * How is the school summary affected?
@@ -23,11 +23,12 @@ The purpose of this analysis was to find the overall passing percentages of the 
 
 ## * Scores by school spending
      Same as above
-     ![Image Title]
+     ![Image Title] (https://github.com/DawnWalker12/School_District_Analysis/blob/main/Scores_By_School_Spending.png).
+     
 
 ## * Scores by school size
      Same as above
-      ![Image Title](https://github.com/DawnWalker12/School_District_Analysis/blob/main/Scores_By_School_Size.png).
+      ![Image Title] (https://github.com/DawnWalker12/School_District_Analysis/blob/main/Scores_By_School_Size.png)
 
 ## * Scores by school type
      Same as above

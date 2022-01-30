@@ -6,32 +6,33 @@ The purpose of this analysis was to find the overall passing percentages of the 
 # Results
 
 ## * How is the district summary affected?
-     Since I have "dirty data", I am not sure. My District Summary dataframe is pictured below.
-     ![image.name](https://github.com/DawnWalker12/School_District_Analysis/blob/main/District_Summary_DF.png)
-     
-     
+     Since I have "dirty data", I am not sure. 
+     ![Image Title](https://github.com/DawnWalker12/School_District_Analysis/blob/main/District_Summary_DF.png)
+  
+          
 
 ## * How is the school summary affected?
      Same as above
+     ![Image Title]
 
 ## * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
-Same as above
+     Same as above
+     ![Image Title]
 ## * How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
-
-Same as above
+     Same as above
+     ![Image Title]
 
 ## * Scores by school spending
-
-Same as above
+     Same as above
+     ![Image Title]
 
 ## * Scores by school size
-
-Same as above
+     Same as above
+      ![Image Title]
 
 ## * Scores by school type
-
-Same as above
+     Same as above
+     ![Image Title]
 
 # Conclusion
 

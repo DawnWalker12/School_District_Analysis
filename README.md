@@ -12,14 +12,15 @@ The purpose of this analysis was to find the overall passing percentages of the 
 
 ## * How is the school summary affected?
      Same as above
-     ![Image Title]
+     ![Image Title] (https://github.com/DawnWalker12/School_District_Analysis/blob/main/School_Summary_DF.png)
+     
 
 ## * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
      Same as above
-     ![Image Title]
+     
 ## * How does replacing the ninth-grade scores affect the following: #Math and reading scores by grade
      Same as above
-     ![Image Title]
+    
 
 ## * Scores by school spending
      Same as above

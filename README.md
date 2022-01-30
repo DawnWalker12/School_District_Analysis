@@ -7,7 +7,8 @@ The purpose of this analysis was to find the overall passing percentages of the 
 
 ## * How is the district summary affected?
      Since I have "dirty data", I am not sure. My District Summary dataframe is pictured below.
-     ![Image Title](https://github.com/DawnWalker12/School_District_Anaylysis/District_Summary_DF.png)
+     ![image.name](https://github.com/DawnWalker12/School_District_Analysis/blob/main/District_Summary_DF.png)
+     
      
 
 ## * How is the school summary affected?

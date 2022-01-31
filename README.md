@@ -1,7 +1,7 @@
 # Challenge - School_District_Analysis
 
 ## Overview 
-The purpose of this analysis was to find the overall passing percentages of the students and see if there is any correlation with the budget per student. I found some scores were missing. Unfortunately, I was unable to remove all the NANs from the dataset. Therefore my data is "dirty".
+The purpose was to redo the school summary analysis after replacing 9th grade THS scores with nans because they are suspected of academic dishonesty. I found some scores were missing. Unfortunately, I was unable to remove all the NANs from the dataset. Therefore my data is "dirty".
 
 # Results
 
